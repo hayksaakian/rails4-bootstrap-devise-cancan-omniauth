@@ -59,6 +59,7 @@ gem_group :test do
   gem "rb-inotify", "~> 0.9"
 end
 
+gem "libv9", "3.11.8.13"
 gem "bootstrap-sass", "~> 2.3.2.1"
 gem "font-awesome-sass-rails"
 gem "simple_form", github: "plataformatec/simple_form"
